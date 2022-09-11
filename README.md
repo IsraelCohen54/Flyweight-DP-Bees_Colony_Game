@@ -5,3 +5,5 @@ Hence, the DP contains extrinsic - data unique to a specific object, e.g., coord
 In addition, Flyweight DP has a Factory class that returns an instance of the class if already exists in the database (e.g. from the dictionary) or creates a new one, adds it to the factory, and returns a pointer to it.
 
 Threads are pretty much a must.
+
+Added file with run time complexity test for Flyweight project.
