@@ -21,7 +21,7 @@ Init creatures at start, queens, chose number of adults bee, number of eggs, lar
 Init factory to create new creature if not existed in Factory
 Create intrinsic extrinsic array with threads tending to intrinsic data and extrinsic data creation on separate threads.
 Init Game class with the data
-Run over all creatures, check growth and other function like move, health(X) and temperature(X) change in night/winter
+Run over all creatures, check growth and other function like move, health(X) and temperature(X) change in night/winter (X)
 If new queen appear at "5" growth stage, it would kill all other queens from the list of queens, lay new eggs + 1 queen
 If the sole queen too old, it would go away with 30 percent of adult bee colony. (X)
 Death events
